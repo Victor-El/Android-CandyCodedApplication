@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -210,10 +209,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
-        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
     </recent_temporary>
   </component>
@@ -242,51 +241,59 @@
       <option name="project" value="LOCAL" />
       <updated>1601603732930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add intent for phone activity">
+      <created>1601604319217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601604319217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add explicit intent to launch InfoActivity" />
     <MESSAGE value="feat: add intent for google maps activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add intent for google maps activity" />
+    <MESSAGE value="feat: add intent for phone activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add intent for phone activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="29" key="#app" timestamp="1601600008107">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="414" y="29" key="#app/0.0.1366.768@0.0.1366.768" timestamp="1601600008107" />
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601602653763">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601604599277">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601602653763" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601604599277" />
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601599221152">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601599221152" />
-    <state x="257" y="0" key="CommitChangelistDialog2" timestamp="1601603730631">
+    <state x="257" y="0" key="CommitChangelistDialog2" timestamp="1601604316952">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="257" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601603730631" />
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1601604197865">
+    <state x="257" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601604316952" />
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1601604978971">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601604197865" />
-    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1601604197865">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601604978971" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1601604978970">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601604197865" />
-    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1601604197864">
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601604978970" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1601604978970">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601604197864" />
-    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1601604197865">
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601604978970" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1601604978971">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601604197865" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601603736421">
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601604978971" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601604323057">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601603736421" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601604323057" />
     <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601600082976">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
